@@ -11,6 +11,12 @@ body{
     text-decoration: none;
     color: lightsteelblue
 }
+.nav{
+    display: flex;
+}
+.nav li{
+    margin: 0 15px;
+}
 a{
     text-decoration: none;
     color: black;
